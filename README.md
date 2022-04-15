@@ -1,0 +1,2 @@
+# ProspectorSolitaire
+Пасьянс "Три пирамиды"
